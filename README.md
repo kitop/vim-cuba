@@ -8,6 +8,6 @@ Vim syntax highlighting for [cuba](https://github.com/soveran/cuba) apps. Highli
   Clone this repo into your `~/.vim/bundle` directory.
 
   ```
-  $ git clone https://github.com/kitop/vim-cuba.git
+  $ git clone https://github.com/kitop/vim-cuba.git ~/.vim/bundle
   ```
 
